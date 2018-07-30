@@ -42,14 +42,15 @@ Changed for consistency
 
 These are the ISCED Levels that are used by the graphs:
 
-Level 0: Pre-primary education.
-Level 1: Primary education or first stage of basic education.
-Level 2: Lower secondary education or second stage of basic education
-Level 3: Upper secondary education
-Level 4: Post-secondary non-tertiary education
-Level 5B: First stage of tertiary education: typically shorter, more practical/technical/occupationally specific programmes leading to professional qualifications.
-Level 5A: First stage of tertiary education: largely theoretically based programmes intended to provide qualifications for gaining entry into more advanced research programmes and professions with higher skills requirements.
-Level 6: Second stage of tertiary education (leading to an advanced research qualification).
+- Level 0: Pre-primary education.
+- Level 1: Primary education or first stage of basic education.
+- Level 2: Lower secondary education or second stage of basic education
+- Level 3: Upper secondary education
+- Level 4: Post-secondary non-tertiary education
+- Level 5B: First stage of tertiary education: typically shorter, more practical/technical/occupationally specific programmes leading to professional qualifications.
+- Level 5A: First stage of tertiary education: largely theoretically based programmes intended to provide qualifications for gaining entry into more advanced research programmes and professions with higher skills requirements.
+- Level 6: Second stage of tertiary education (leading to an advanced research qualification).
+
 
 Added an legend box that explains those levels
 
